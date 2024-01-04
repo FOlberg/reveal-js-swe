@@ -1,15 +1,13 @@
 # Presentation Cofinpro Styling in Reveal.js
-
-## Viewing the presentation on Github Pages
-
-[dominikschopper.github.io/index.html](https://dominikschopper.github.io/fun-with-the-shell/index.html)
+This project is forked from [fun-with-the-shell](https://github.com/dominikschopper/fun-with-the-shell)
+Credits to Dominik Schopper for publishing his modified reveal.js setup.
 
 ## Starting the Presentation locally
 
 1. install needed dep.s (moentarily just `live-server`)
   ```bash
   npm install
-  npm install live-server # I had to call this separatly
+  npm install live-server
   ```
 2. start the http-server to serve the presentation
   ```bash
